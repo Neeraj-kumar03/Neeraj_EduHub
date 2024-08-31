@@ -1,2 +1,2 @@
-# Neeraj_Eduhub
+# Neeraj_EduHub
 Education Website
